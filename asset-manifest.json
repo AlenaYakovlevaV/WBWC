@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WBWC/static/css/main.b4c40990.css",
+    "main.js": "/WBWC/static/js/main.e9c011aa.js",
+    "static/media/delete2.svg": "/WBWC/static/media/delete2.ac970dcca5f1fe415374.svg",
+    "index.html": "/WBWC/index.html",
+    "static/media/add2.svg": "/WBWC/static/media/add2.04149b6e34194d3f21a7.svg",
+    "static/media/plus.svg": "/WBWC/static/media/plus.d2d7e3877a988ca584db.svg",
+    "main.b4c40990.css.map": "/WBWC/static/css/main.b4c40990.css.map",
+    "main.e9c011aa.js.map": "/WBWC/static/js/main.e9c011aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c40990.css",
+    "static/js/main.e9c011aa.js"
+  ]
+}
