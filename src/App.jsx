@@ -21,13 +21,13 @@ function App() {
   React.useEffect(() => {
     setTitles(titlesFromStorage === null ?
       [
-        {id: 1, order: 1, key: 'Заголовок', title: 'Заголовок'},
+        {id: 1, order: 1, key: 'Заголовок', title: 'Title'},
         {id: 2, order: 2, key: 'Карточки', 
         cards: [
-          {label: 'Карточка', description: 'Описание карточки', image: startImg, color: '#000000', backgroundColor: '#ffffff'},
-          {label: 'Карточка', description: 'Описание карточки', image: startImg, color: '#000000', backgroundColor: '#ffffff'},
-          {label: 'Карточка', description: 'Описание карточки', image: startImg, color: '#000000', backgroundColor: '#ffffff'},
-          {label: 'Карточка', description: 'Описание карточки', image: startImg, color: '#000000', backgroundColor: '#ffffff'},
+          {label: 'Card', description: 'Create a custom description for your card', image: startImg, color: '#000000', backgroundColor: '#ffffff'},
+          {label: 'Card', description: 'Create a custom description for your card', image: startImg, color: '#000000', backgroundColor: '#ffffff'},
+          {label: 'Card', description: 'Create a custom description for your card', image: startImg, color: '#000000', backgroundColor: '#ffffff'},
+          {label: 'Card', description: 'Create a custom description for your card', image: startImg, color: '#000000', backgroundColor: '#ffffff'},
         ]
       }
         

@@ -1,5 +1,4 @@
 import React from "react";
-import { Film } from "./Film";
 import { FilmList } from "./FilmList";
 import { ButtonDelete } from "../../Buttons/ButtonDelete";
 

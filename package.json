@@ -2,7 +2,7 @@
   "name": "sitecreater",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alenayakovlevav.github.io/WebsiteBuilder/",
+  "homepage": "https://alenayakovlevav.github.io/WBWC/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

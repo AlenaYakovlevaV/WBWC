@@ -7,7 +7,7 @@ export const ButtonsActions = ({titles, setTitles, index, startImg}) => {
     <div className='btn-actions'>
       <button 
         onClick={() => {
-          const newElement = {label: 'Карточка', description: 'Описание карточки', image: startImg, color: '#000000', backgroundColor: '#ffffff'}
+          const newElement = {label: 'Card', description: 'Create a custom description for your card', image: startImg, color: '#000000', backgroundColor: '#ffffff'}
           let ntitles = [...titles];
           ntitles[index].cards.push(newElement);
           setTitles(ntitles);

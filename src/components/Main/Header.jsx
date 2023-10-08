@@ -4,7 +4,7 @@ export const Header = ({setMode, setEdit, setReset}) => {
   return (
     <header className='header'>
       <div className='header-right'>
-        <h1>Конструктор сайта</h1>
+        <h1>Website Builder</h1>
       </div>
       <div className='header-left'>
         <button className='btn btn-mode' onClick={() => {setMode(true); setEdit(true)}}>Edit</button>
